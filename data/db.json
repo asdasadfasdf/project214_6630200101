@@ -1,0 +1,155 @@
+{
+  "profile": {
+    "fullname": "นายจุมพล บัวแก้ว",
+    "studentId": "6630200101",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "โรงเรียนลือคำหาญวารินชำราบ",
+    "imagePath": "uploads/profile.jpg",
+    "schoolImage": "/uploads/LW.jpg",
+    "uniImage": "/uploads/KU.png"
+  },
+  "subjectData": {
+    "2566": {
+      "เทอมต้น": [
+        {
+          "code": "01418111",
+          "name": "Introduction to Computer Science",
+          "credit": 3,
+          "grade": "B+"
+        },
+        {
+          "code": "01418141",
+          "name": "Intellectual Properties and Professional Ethics",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01999021",
+          "name": "Thai Language for Communication",
+          "credit": 3,
+          "grade": "B+"
+        },
+        {
+          "code": "01999111",
+          "name": "Knowledge of the Land",
+          "credit": 2,
+          "grade": "A"
+        },
+        {
+          "code": "03751112",
+          "name": "Social and Politics",
+          "credit": 3,
+          "grade": "C+"
+        },
+        {
+          "code": "01355101",
+          "name": "English for Everyday Life",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01417111",
+          "name": "Calculus I",
+          "credit": 3,
+          "grade": "B+"
+        },
+        {
+          "code": "01418112",
+          "name": "Fundamental Programming Concepts",
+          "credit": 3,
+          "grade": "A"
+        }
+      ],
+      "เทอมปลาย": [
+        {
+          "code": "01418113",
+          "name": "Computer Programming",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01175125",
+          "name": "Softball for Health",
+          "credit": 1,
+          "grade": "A"
+        },
+        {
+          "code": "01418131",
+          "name": "Statistical Programming",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01417322",
+          "name": "Basic Linear Algebra",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01999041",
+          "name": "Economics for Better Living",
+          "credit": 3,
+          "grade": "B+"
+        },
+        {
+          "code": "01418132",
+          "name": "Fundamentals of Computing",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "03654111",
+          "name": "Aesthetics of Sport",
+          "credit": 3,
+          "grade": "A"
+        }
+      ]
+    },
+    "2567": {
+      "เทอมต้น": [
+        {
+          "code": "01999012",
+          "name": "Health for Life",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01418211",
+          "name": "Software Construction",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01418223",
+          "name": "Data Structures and Algorithms",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01418231",
+          "name": "English for University Life",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01355102",
+          "name": "Data Science and Application Programs",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01418233",
+          "name": "Computer Architecture",
+          "credit": 3,
+          "grade": "A"
+        },
+        {
+          "code": "01174231",
+          "name": "Introduction to Recreation",
+          "credit": 2,
+          "grade": "A"
+        }
+      ]
+    }
+  }
+}
